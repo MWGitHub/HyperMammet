@@ -1,4 +1,4 @@
-# SamplePlugin
+# HyperMammet
 
 Simple example plugin for Dalamud.
 
